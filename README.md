@@ -31,7 +31,7 @@ make all the migrations to 'myapp'.
 create an student database with 10 fields using runserver command.
 
 ## PROGRAM
-```
+```python
 admin.py
 
 from django.contrib import admin
