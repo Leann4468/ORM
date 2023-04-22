@@ -57,5 +57,9 @@ class studentAdmin(admin.ModelAdmin):
 ## OUTPUT
 ![leann ORM](https://user-images.githubusercontent.com/121165979/233149053-beae6e2d-1497-469a-b2cd-0c905f692a5e.png)
 
+## SERVER OUTPUT
+![server out](https://user-images.githubusercontent.com/121165979/233763332-df34b2a4-f311-4efb-97d0-077752b9cc3d.png)
+
+
 ## RESULT
 The program for creating an student database using ORM is executed sucessfully.
